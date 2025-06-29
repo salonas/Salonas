@@ -52,7 +52,7 @@ Sometimes with style, sometimes crying silently, but always with hustle:
   <br /><br />
   <img src="https://media.tenor.com/ZDi-aKGqvG0AAAAj/cat-bailarin.gif" alt="Mina the cat (not actually her, but close enough tho)" />
   <br />
-  <em>Mina the cat (not actually her, but close enough tho)</em>
+  <em> Mina the cat (not her actually, but close enough tho) </em>
 </p>
 
 

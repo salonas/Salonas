@@ -47,9 +47,12 @@ Sometimes with style, sometimes crying silently, but always with hustle:
 
 ---
 
-### Meet Mina, my cat and official debugging supervisor /ᐠ｡ꞈ｡ᐟ\💻
-
 <p align="center">
+  <strong>Meet Mina, my cat and official debugging supervisor /ᐠ｡ꞈ｡ᐟ\💻</strong>
+  <br /><br />
   <img src="https://media.tenor.com/ZDi-aKGqvG0AAAAj/cat-bailarin.gif" alt="Mina the cat (not actually her, but close enough tho)" />
+  <br />
+  <em>Mina the cat (not actually her, but close enough tho)</em>
 </p>
+
 

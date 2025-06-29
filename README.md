@@ -1,6 +1,6 @@
 ## 👋 Hey! I'm Salonas — Accidental coder, stubborn wannabe musician, professional mess maker.
 
-### ( •̀ ω •́ )⌕ Sobre mí / About Me | ES / ENG friendly 〜(￣ω￣〜)
+### 📖 ( •̀ ω •́ )⌕ Sobre mí / About Me | ES / ENG friendly 〜(￣ω￣〜)
 
 **[ESP]**  
 Estudio Ingeniería en Informática en la UST (Concepción, Chile), y llegué a la programación medio de rebote… pero me quedé porque me encanta romper cosas (y luego arreglarlas… a veces).  
@@ -49,4 +49,7 @@ Sometimes with style, sometimes crying silently, but always with hustle:
 
 ### Meet Mina, my cat and official debugging supervisor /ᐠ｡ꞈ｡ᐟ\💻
 
-![Mina the cat (not actually her, but close enough tho)](https://i.gifer.com/FKR5.gif)
+<p align="center">
+  <img src="https://media.tenor.com/ZDi-aKGqvG0AAAAj/cat-bailarin.gif" alt="Mina the cat (not actually her, but close enough tho)" />
+</p>
+

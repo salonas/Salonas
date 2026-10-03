@@ -1,6 +1,6 @@
 ## Hey! I'm Salonas
 
-Programador por accidente, músico por porfiado.
+Programador por accidente, músico porfiado.
 
 ### ( •̀ ω •́ )⌕ Sobre mí / About Me | ES / ENG friendly 〜(￣ω￣〜)
 
